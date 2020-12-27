@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./Price.xsl"?>
+<catalog>
+	<cd>
+		<title>Vera wang</title>
+		<country>美国</country>
+		<price>$900</price>
+		<introduce>中产品位，阶层欣赏，设计简约，纯洁高贵</introduce>
+	</cd>
+	<cd>
+		<title>Pronovias</title>
+		<country>西班牙</country>
+		<price>$1000</price>
+		<introduce>白色梦幻、永恒优雅、高贵浪漫</introduce>
+	</cd>
+	<cd>
+		<title>Lihi Hod</title>
+		<country>以色列</country>
+		<price>$1200</price>
+		<introduce>古典之美，绝不矫揉造作的姿态，反而带点中性美感</introduce>
+	</cd>
+	<cd>
+		<title>Milamira</title>
+		<country>美国</country>
+		<price>$1300</price>
+		<introduce>层层叠叠的纱质长裙，随风扬起浪漫的</introduce>
+	</cd>
+	<cd>
+		<title>Inbal Dror</title>
+		<country>以色列</country>
+		<price>$1500</price>
+		<introduce>鱼尾裙与极致贴身的设计，薄如蝉翼的面料与精致的绣工</introduce>
+	</cd>
+	<cd>
+		<title>Laure De Sagazan</title>
+		<country>法国</country>>
+    <price>$1600</price>
+		<introduce>极简主义的少女风路线</introduce>
+	</cd>
+	<cd>
+		<title>Rue DeSeine</title>
+		<country>新西兰</country>
+		<price>$1800</price>
+		<introduce>擅长打造富有民族风情的婚纱，波希米亚风是其主打风格</introduce>
+	</cd>
+	<cd>
+		<title>Celia Grace</title>
+		<country>德国</country>
+		<price>$800</price>
+		<introduce>裁剪缝制上也更趋向于大众化，比较适合普通人的身材</introduce>
+	</cd>
+	<cd>
+		<title>格格旗袍</title>
+		<country>中国</country>
+		<price>￥3000</price>
+		<introduce>中式旗袍礼服为主营产品，深受国内外各界人士喜爱</introduce>
+	</cd>
+	<cd>
+		<title>名瑞 FAMORY</title>
+		<country>中国</country>
+		<price>￥5000</price>
+		<introduce>中国婚纱晚礼服知名品牌</introduce>
+	</cd>
+	<cd>
+		<title>新人有约 VIVAN</title>
+		<country>中国</country>
+		<price>￥3000</price>
+		<introduce>对美丽事业有特殊灵感并执著追求的女性简约、优雅</introduce>
+	</cd>
+	<cd>
+		<title>蔡美月</title>
+		<country>中国</country>
+		<price>￥3000</price>
+		<introduce>一步一步迈向礼堂，许下一生的承诺</introduce>
+	</cd>
+	<cd>
+		<title>木真了 MOZEN</title>
+		<country>中国</country>
+		<price>￥5000</price>
+		<introduce>意味着本质及无限的可塑与创造性，体现在我们的创造中</introduce>
+	</cd>
+	<cd>
+		<title>Yumi Katsura Paris</title>
+		<country>中国</country>
+		<price>￥7000</price>
+		<introduce>一直致力于拓展婚纱礼服的创新</introduce>
+	</cd>
+	<cd>
+		<title>金潮连思</title>
+		<country>中国</country>
+		<price>￥6000</price>
+		<introduce>独特的风格引领婚纱潮流。</introduce>
+	</cd>
+	<cd>
+		<title>林莉 LinLi</title>
+		<country>台湾</country>
+		<price>￥4500</price>
+		<introduce>现代魔法般为女人留住最美的一刻</introduce>
+	</cd>
+	<cd>
+		<title>Daniel Wang</title>
+		<country>中国</country>
+		<price>￥3000</price>
+		<introduce>手工立体裁剪制作，注重手工缝制的精致</introduce>
+	</cd>
+</catalog>

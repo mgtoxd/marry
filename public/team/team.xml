@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="team.css"?>
+<privatecinema xmlns:HTML="http://www.w3.org/1999/xhtml">
+	<logo>
+		<HTML:img src="logo.png" width="640px" height="420px"/>
+	</logo>
+	<member>Sweetheart Wedding 简介</member>
+ 
+
+	<kuai>
+		<HTML:img src="transparent.png" width="1000px" height="100px"/>
+		<team>制作团队：马韬循、苏卿、赵剑宇、张昊、吴进彬</team>
+		<time>2020.6.10-2020.6.16</time>
+		<HTML:img src="transparent.png" width="2000px" height="100px"/>
+	
+	</kuai>	
+	
+	<ul>
+		<bt>
+			<HTML:img src="danji.jpg" width="640px" height="360px"/>
+		</bt>
+		<bb>
+			<HTML:img src="dianwei.jpg" width="640px" height="360px"/>
+		</bb>
+		<bb>
+			<HTML:img src="diaochan.jpg" width="640px" height="360px"/>
+		</bb>
+		<bb>
+			<HTML:img src="kai.jpg" width="640px" height="360px"/>
+		</bb>
+		<bb>
+			<HTML:img src="lanlinwang.jpg" width="640px" height="360px"/>
+		</bb>	
+	</ul>
+
+	<HTML:img src="transparent.png" width="2000px" height="200px"/>
+	<video><HTML:embed src="暮光之城片段.mp4" width="650" height="388" autostart="false" ></HTML:embed></video>	
+	<HTML:img src="transparent.png" width="2000px" height="200px"/>
+	<HTML:a href="http://localhost:9908/#/index" class="button" >进入</HTML:a>
+	<HTML:img src="transparent.png" width="2000px" height="200px"/>
+	
+		
+</privatecinema>
+

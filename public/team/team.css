@@ -1,0 +1,138 @@
+
+privatecinema{
+
+                top: 0;
+                left: 0;
+                width:100%;
+                height:100%;
+                min-width: 1000px;
+                z-index:-10;
+                zoom: 1;
+                background-color: #fff;
+                background: url(kiss.jpg);
+
+                background-size: cover;
+                background-position: center center;
+				background-attachment:fixed;			
+
+}
+video{
+	display:block;
+	font-size:32px;
+    text-align:center;
+
+}
+
+member{
+	display:block;
+	font-size:32px;
+    text-align:center;
+    color: white
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	width: 800px;	
+	height: 360px;	
+	margin: 200px auto;	
+	/*溢出部分隐藏*/	
+	overflow: hidden;
+}
+ul img{	
+	width: 640px;	
+	height: 360px;
+}
+bb{	
+	list-style: none;	
+	width: 155px;	
+	height: 360px;	
+	float: left;	
+	
+	
+	transition: all 0.5s linear;
+	overflow: hidden;
+}
+bt{
+	list-style: none;
+	width: 155px;
+	height: 360px;
+	float: left;
+	margin-left:30%;
+	
+	
+	transition: all 0.5s linear;
+	overflow: hidden;
+}
+/*鼠标悬浮在ul上，让ul变小*/
+ul:hover bb{
+	width: 110px;
+}
+/*鼠标悬浮到某个li上，让li变大*/
+ul bb:hover{
+	width: 635px;
+}
+ul bt:hover{
+	width: 635px;
+}
+team{
+	display:block;
+	font-size:32px;
+	text-align:center;
+	color: white
+    
+}
+space{
+	width:100%;
+}
+time{
+	display:block;
+	font-size:32px;
+    text-align:center;
+    color: white
+}
+clear{
+	clear:both;
+}
+logo{
+    display: block;
+    margin: auto;
+    width: 35%;
+}
+link{
+   	display:block;
+	font-size:15px;
+	text-align:center;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+a{
+	background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+	margin-left:47%
+}
